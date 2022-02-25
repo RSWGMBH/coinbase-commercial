@@ -43,7 +43,7 @@ export default function Home() {
     <div className={styles.container} ref={container}>
       <div style={{ top, left }}>
         <QRCode
-          value="https://next.leighhalliday.com"
+          value="https://www.rundum-sorglos-wohnen.de
           bgColor={colors[color % colors.length]}
           size={size}
         />
